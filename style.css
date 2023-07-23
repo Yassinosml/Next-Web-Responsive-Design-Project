@@ -54,7 +54,7 @@ header ul li a{
     color: white;
     border: none;
     border-radius: 5px;
-    cursor: none;
+    cursor: pointer;
     
 }   
 header ul li:hover{
